@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HXVideoStreamPlayer", "HXVideoStreamPlayer\HXVideoStreamPlayer.vcxproj", "{A0EF7724-A524-4D65-83F3-70CAFF99AF37}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HXStreamNetClient", "HXStreamNetClient\HXStreamNetClient.vcxproj", "{E6777E76-A0E8-47EB-9C17-17CBFEA14FB6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GreenMatting", "GreenMattingTool\Greenmatting\GreenMatting.vcxproj", "{116F90FE-FAE2-40A9-A3BD-FDB895C5FEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0EF7724-A524-4D65-83F3-70CAFF99AF37}.Debug|x64.ActiveCfg = Debug|x64
+		{A0EF7724-A524-4D65-83F3-70CAFF99AF37}.Debug|x64.Build.0 = Debug|x64
+		{A0EF7724-A524-4D65-83F3-70CAFF99AF37}.Debug|x86.ActiveCfg = Debug|Win32
+		{A0EF7724-A524-4D65-83F3-70CAFF99AF37}.Debug|x86.Build.0 = Debug|Win32
+		{A0EF7724-A524-4D65-83F3-70CAFF99AF37}.Release|x64.ActiveCfg = Release|x64
+		{A0EF7724-A524-4D65-83F3-70CAFF99AF37}.Release|x64.Build.0 = Release|x64
+		{A0EF7724-A524-4D65-83F3-70CAFF99AF37}.Release|x86.ActiveCfg = Release|Win32
+		{A0EF7724-A524-4D65-83F3-70CAFF99AF37}.Release|x86.Build.0 = Release|Win32
+		{E6777E76-A0E8-47EB-9C17-17CBFEA14FB6}.Debug|x64.ActiveCfg = Debug|x64
+		{E6777E76-A0E8-47EB-9C17-17CBFEA14FB6}.Debug|x64.Build.0 = Debug|x64
+		{E6777E76-A0E8-47EB-9C17-17CBFEA14FB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{E6777E76-A0E8-47EB-9C17-17CBFEA14FB6}.Debug|x86.Build.0 = Debug|Win32
+		{E6777E76-A0E8-47EB-9C17-17CBFEA14FB6}.Release|x64.ActiveCfg = Release|x64
+		{E6777E76-A0E8-47EB-9C17-17CBFEA14FB6}.Release|x64.Build.0 = Release|x64
+		{E6777E76-A0E8-47EB-9C17-17CBFEA14FB6}.Release|x86.ActiveCfg = Release|Win32
+		{E6777E76-A0E8-47EB-9C17-17CBFEA14FB6}.Release|x86.Build.0 = Release|Win32
+		{116F90FE-FAE2-40A9-A3BD-FDB895C5FEFC}.Debug|x64.ActiveCfg = Debug|x64
+		{116F90FE-FAE2-40A9-A3BD-FDB895C5FEFC}.Debug|x64.Build.0 = Debug|x64
+		{116F90FE-FAE2-40A9-A3BD-FDB895C5FEFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{116F90FE-FAE2-40A9-A3BD-FDB895C5FEFC}.Debug|x86.Build.0 = Debug|Win32
+		{116F90FE-FAE2-40A9-A3BD-FDB895C5FEFC}.Release|x64.ActiveCfg = Release|x64
+		{116F90FE-FAE2-40A9-A3BD-FDB895C5FEFC}.Release|x64.Build.0 = Release|x64
+		{116F90FE-FAE2-40A9-A3BD-FDB895C5FEFC}.Release|x86.ActiveCfg = Release|Win32
+		{116F90FE-FAE2-40A9-A3BD-FDB895C5FEFC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
